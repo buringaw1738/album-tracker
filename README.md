@@ -2,10 +2,9 @@
 
 Album Tracker is a React web app for searching music albums, previewing their tracks, and keeping a personal listening log with statuses, 1-5 star ratings, and notes. It can play full albums through Deezer's embeddable player and suggests new albums with LLM-powered recommendations based on your saved albums and ratings.
 
-<!-- Add your screenshot as screenshot.png in this folder, then it will show here -->
 ![Screenshot](screenshot.png)
 
-**Live site:** https://YOUR-APP.vercel.app
+**Live site:** https://album-tracker-flax.vercel.app/
 
 ## Features
 
@@ -23,7 +22,7 @@ React, Vite, Context API, iTunes API, Deezer, Gemini, Vercel
 ## Run Locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/buringaw1738/album-tracker.git
 cd YOUR-REPO
 npm install
 # create a file named .env.local in the project root containing:
